@@ -12,21 +12,6 @@ Read this comic http://theoatmeal.com/comics/design_hell
 
 git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
-######################
-## Changes to Gutenberg documents
-
-#1 Change the font of documents
-
-#2 Change the backgroung 
-
-#3 Change color, border and font for headers
-
-#4 Change the imge style and border 
-
-#5 Change the display of all text(align to center)
-
-
-
 License/Copyright
 =================
 
